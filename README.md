@@ -19,7 +19,4 @@ A simple, interactive console-based ATM program built in **C++** that manages us
 ---
 
 ## 🛠️ How to Run
-1. Create a file named `Clients.txt` in the same directory as the source code.
-2. Add sample accounts inside `Clients.txt` using the `#//#` separator like this:
-   ```text
-   A101#//#1234#//#John Doe#//#0123456789#//#5000.00
+1. Make sure Clients.txt is in the same directory as the source code.
